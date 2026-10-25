@@ -1,4 +1,9 @@
-<a href="https://font.stavan.ai"><img src="https://font.stavan.ai/write.svg?text=Hi%2C%20I%27m%20Stavan.&size=72" alt="Hi, I'm Stavan." height="96"></a>
+<a href="https://font.stavan.ai">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://font.stavan.ai/write.svg?text=Hi%2C%20I%27m%20Stavan.&size=72&color=f0f6fc">
+    <img src="https://font.stavan.ai/write.svg?text=Hi%2C%20I%27m%20Stavan.&size=72&color=1f2328" alt="Hi, I'm Stavan." height="96">
+  </picture>
+</a>
 
 That's my real handwriting, written live by [font.stavan.ai](https://font.stavan.ai). I turned 675 pages of my lecture
 notes into a free font: **[Stavan](https://github.com/Whiteknight07/stavan-font)**. Five versions of every letter, a
