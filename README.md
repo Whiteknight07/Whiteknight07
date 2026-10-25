@@ -10,4 +10,11 @@ notes into a free font: **[Stavan](https://github.com/Whiteknight07/stavan-font)
 monospace version for code, and it can write itself. Want your own words in my handwriting? Change the text in
 `https://font.stavan.ai/write.svg?text=...`.
 
-More at [stavan.ai](https://stavan.ai).
+<a href="https://stavan.ai">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://stavan.ai/card.svg?theme=dark">
+    <img src="https://stavan.ai/card.svg" alt="Stavan Shah: what my coding agents are doing right now" width="480">
+  </picture>
+</a>
+
+That card is live: my coding agents in T3 Code, in my handwriting. More at [stavan.ai](https://stavan.ai).
