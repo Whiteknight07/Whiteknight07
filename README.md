@@ -1,7 +1,7 @@
 <a href="https://font.stavan.ai">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://font.stavan.ai/write.svg?text=Hi%2C%20I%27m%20Stavan.&size=72&color=f0f6fc">
-    <img src="https://font.stavan.ai/write.svg?text=Hi%2C%20I%27m%20Stavan.&size=72&color=1f2328" alt="Hi, I'm Stavan." height="96">
+    <source media="(prefers-color-scheme: dark)" srcset="https://font.stavan.ai/write.svg?text=Hi%2C%20I%27m%20Stavan.&size=72&start=4&color=f0f6fc">
+    <img src="https://font.stavan.ai/write.svg?text=Hi%2C%20I%27m%20Stavan.&size=72&start=4&color=1f2328" alt="Hi, I'm Stavan." height="96">
   </picture>
 </a>
 
@@ -13,7 +13,7 @@ monospace version for code, and it can write itself. Want your own words in my h
 <a href="https://stavan.ai">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://stavan.ai/card.svg?theme=dark">
-    <img src="https://stavan.ai/card.svg" alt="Stavan Shah: what my coding agents are doing right now" width="480">
+    <img src="https://stavan.ai/card.svg" alt="What my coding agents are doing right now" width="480">
   </picture>
 </a>
 
